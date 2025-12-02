@@ -1,0 +1,4 @@
+stick
+rod
+cane
+wand

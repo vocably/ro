@@ -1,0 +1,6 @@
+range
+scope
+extent
+spectrum
+span
+reach
